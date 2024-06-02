@@ -1,0 +1,48 @@
+/* Стили для контейнера графика */
+.chart-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Стили для самого графика */
+  .chart-container canvas {
+    width: 100% !important;
+    height: auto !important;
+  }
+  
+  /* Стили для легенды графика */
+  .chart-legend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .chart-legend li {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .chart-legend li span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+  }
+  
+  /* Стили для точек данных графика */
+  .chart-container .chartjs-render-monitor .chart-element-point {
+    background-color: rgba(75, 192, 192, 1) !important;
+    border-width: 2px !important;
+  }
+  
+  /* Стили для линий графика */
+  .chart-container .chartjs-render-monitor .chart-line {
+    border-color: rgba(75, 192, 192, 1) !important;
+    border-width: 2px !important;
+  }
+  
