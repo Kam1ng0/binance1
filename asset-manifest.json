@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/binance1/static/css/main.75b238e3.chunk.css",
+    "main.js": "/binance1/static/js/main.677978e1.chunk.js",
+    "main.js.map": "/binance1/static/js/main.677978e1.chunk.js.map",
+    "runtime-main.js": "/binance1/static/js/runtime-main.436afcc5.js",
+    "runtime-main.js.map": "/binance1/static/js/runtime-main.436afcc5.js.map",
+    "static/js/2.52c75b94.chunk.js": "/binance1/static/js/2.52c75b94.chunk.js",
+    "static/js/2.52c75b94.chunk.js.map": "/binance1/static/js/2.52c75b94.chunk.js.map",
+    "static/js/3.53316eec.chunk.js": "/binance1/static/js/3.53316eec.chunk.js",
+    "static/js/3.53316eec.chunk.js.map": "/binance1/static/js/3.53316eec.chunk.js.map",
+    "index.html": "/binance1/index.html",
+    "static/css/main.75b238e3.chunk.css.map": "/binance1/static/css/main.75b238e3.chunk.css.map",
+    "static/js/2.52c75b94.chunk.js.LICENSE.txt": "/binance1/static/js/2.52c75b94.chunk.js.LICENSE.txt",
+    "static/media/ava1.e8ecdf76.jpg": "/binance1/static/media/ava1.e8ecdf76.jpg",
+    "static/media/ava2.925f4b2b.jpg": "/binance1/static/media/ava2.925f4b2b.jpg",
+    "static/media/binance.5f756d86.jpg": "/binance1/static/media/binance.5f756d86.jpg",
+    "static/media/bybit.3322c970.jpg": "/binance1/static/media/bybit.3322c970.jpg",
+    "static/media/coinbase.f4a2f863.jpg": "/binance1/static/media/coinbase.f4a2f863.jpg",
+    "static/media/logo.044a0506.jpeg": "/binance1/static/media/logo.044a0506.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.436afcc5.js",
+    "static/js/2.52c75b94.chunk.js",
+    "static/css/main.75b238e3.chunk.css",
+    "static/js/main.677978e1.chunk.js"
+  ]
+}
