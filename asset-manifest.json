@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/binance1/static/css/main.960136e4.chunk.css",
-    "main.js": "/binance1/static/js/main.2d6e1e07.chunk.js",
-    "main.js.map": "/binance1/static/js/main.2d6e1e07.chunk.js.map",
+    "main.js": "/binance1/static/js/main.0ea55b95.chunk.js",
+    "main.js.map": "/binance1/static/js/main.0ea55b95.chunk.js.map",
     "runtime-main.js": "/binance1/static/js/runtime-main.436afcc5.js",
     "runtime-main.js.map": "/binance1/static/js/runtime-main.436afcc5.js.map",
-    "static/js/2.52c75b94.chunk.js": "/binance1/static/js/2.52c75b94.chunk.js",
-    "static/js/2.52c75b94.chunk.js.map": "/binance1/static/js/2.52c75b94.chunk.js.map",
+    "static/js/2.1c80ecae.chunk.js": "/binance1/static/js/2.1c80ecae.chunk.js",
+    "static/js/2.1c80ecae.chunk.js.map": "/binance1/static/js/2.1c80ecae.chunk.js.map",
     "static/js/3.53316eec.chunk.js": "/binance1/static/js/3.53316eec.chunk.js",
     "static/js/3.53316eec.chunk.js.map": "/binance1/static/js/3.53316eec.chunk.js.map",
     "index.html": "/binance1/index.html",
     "static/css/main.960136e4.chunk.css.map": "/binance1/static/css/main.960136e4.chunk.css.map",
-    "static/js/2.52c75b94.chunk.js.LICENSE.txt": "/binance1/static/js/2.52c75b94.chunk.js.LICENSE.txt",
+    "static/js/2.1c80ecae.chunk.js.LICENSE.txt": "/binance1/static/js/2.1c80ecae.chunk.js.LICENSE.txt",
     "static/media/ava1.e8ecdf76.jpg": "/binance1/static/media/ava1.e8ecdf76.jpg",
     "static/media/ava2.925f4b2b.jpg": "/binance1/static/media/ava2.925f4b2b.jpg",
     "static/media/binance.5f756d86.jpg": "/binance1/static/media/binance.5f756d86.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.436afcc5.js",
-    "static/js/2.52c75b94.chunk.js",
+    "static/js/2.1c80ecae.chunk.js",
     "static/css/main.960136e4.chunk.css",
-    "static/js/main.2d6e1e07.chunk.js"
+    "static/js/main.0ea55b95.chunk.js"
   ]
 }
