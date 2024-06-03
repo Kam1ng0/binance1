@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif; /* Используем шрифт Roboto, похожий на шрифт Binance */
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  width: 120px;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #000000dc; /* Цвет шапки Binance */
+  padding: 20px;
+  color: #fff; /* Цвет текста в шапке Binance */
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar nav ul li a {
+  color: #fff; /* Цвет ссылок в навигации Binance */
+  text-decoration: none;
+}
+
+.App-body {
+  display: flex;
+  height: calc(100vh - 80px); /* Adjust height considering header height */
+}
+
+.App-sidebar {
+  width: 200px;
+  background-color: #000000dc; /* Цвет боковой панели Binance */
+  color: #fff; /* Цвет текста в боковой панели Binance */
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.App-sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.App-sidebar ul li a {
+  color: #fff; /* Цвет ссылок в боковой панели Binance */
+  text-decoration: none;
+  display: block;
+  padding: 10px 0;
+}
+
+.App-content {
+  flex: 1;
+  padding: 20px;
+  background-color: #000000dc; /* Цвет контента Binance */
+}
+
+.App-content h1 {
+  color: #333; /* Цвет заголовков контента Binance */
+}
+
+.binance-jr{
+  color:#e3a03bf5;
+}
+.navbar nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.navbar nav ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: #e3a03bf5;
+}
+
+.body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Остальные стили остаются без изменений */
+
+.App-content h1 {
+  color: #e3a03bf5; /* Желтый цвет текста */
+}
+
+.qr-code{
+  height: 1000px;
+  width: 170px;
+
+}
+
+.tekst{
+  height: 200px;
+  width: 100px;
+}

@@ -1,0 +1,91 @@
+/* Markets.css */
+
+.markets-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.market-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.market-card {
+  height: 430px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #000000dc;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 300px;
+  margin: 20px;
+  box-shadow: 0 2px 8px rgba(219, 88, 7, 0.899);
+  transition: transform 0.3s ease;
+}
+
+.market-card:hover {
+  transform: scale(1.05);
+}
+
+.market-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.market-card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  flex-grow: 1;
+}
+
+.market-card-content h3 {
+  margin: 0;
+  font-size: 1.2em;
+  color: #f49506;
+}
+
+.market-card-content p {
+  margin: 8px 0;
+  color: #ffffff;
+  flex-grow: 1;
+}
+
+.market-card-content a {
+  display: inline-block;
+  margin-top: 8px;
+  color: #f49506;
+  text-decoration: none;
+}
+
+.market-card-content a:hover {
+  text-decoration: underline;
+}
+
+.footer-image img{
+  height: 334px;
+  width: 1580px;
+}
+
+.market-card-content a {
+  display: inline-block;
+  margin-top: 8px;
+  color: #f49506;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 2px solid #f49506;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.market-card-content a:hover {
+  background-color: #f49506;
+  color: #ffffff;
+  border-color: #f49506;
+  text-decoration:none;
+}
